@@ -1,4 +1,4 @@
-# project_base
+# rg-projekat
 Prazan projekat sa pratećim bibliotekama koje koristimo na času. 
 
 # Uputstvo
